@@ -36,7 +36,7 @@ const weuder = {
 ## 📊 Estatísticas
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=weuderr&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
+  <img height="170" src="https://streak-stats.demolab.com?user=weuderr&theme=dracula&hide_border=true&locale=pt_BR" alt="GitHub streak" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weuderr&layout=compact&langs_count=8&theme=dracula&hide_border=true" alt="Top languages" />
 </div>
 
